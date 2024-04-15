@@ -1,0 +1,43 @@
+
+Step 1: Tools and Technologies Used
+eg: Required
+
+Java Version: 16 (8+)
+Spring Boot
+Spring MVC
+Spring Data JPA (Hibernate)
+MySQL
+Thymeleaf (for View Layer)
+Eclipse STS
+......................................................................................
+
+Step 2: Setting Up the Project
+example:
+
+Project Name: student-management-system
+Type: Maven Packaging (JAR)
+Java Version: 8+ (latest version)
+Group: net.javaguides (customizable)
+Artifact: student-management-system
+Version: 0.0.1-SNAPSHOT-system (no change)
+Description: Student Management System using Spring Boot and Thymeleaf
+Package: net.javaguides.sms
+Note: Leave Spring Boot default version as it is.
+......................................................................................
+
+Step 3: Dependency Selection
+example:
+
+Choose the following dependencies:
+Spring Web
+Spring Data JPA
+Thymeleaf
+MySQL
+Spring Boot DevTool Dependency (for auto-update)
+......................................................................................
+
+Spring Web
+Spring Data JPA
+Thymeleaf
+MySQL
+Spring Boot DevTool Dependency (for auto-update)
