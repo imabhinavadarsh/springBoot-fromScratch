@@ -1,0 +1,11 @@
+Create a database named 'sms' in MySQL.
+Update application.properties(int main/resource we can find application.properties) with the following configurations:
+
+spring.datasource.url=jdbc:mysql://localhost:3306/sms?useSSL=false&serverTimezone=UTC&useLegacyDatetimeCode=false
+spring.datasource.username=********
+spring.datasource.password=********
+
+#Hibernate 
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+spring.jpa.hibernate.ddl-auto=update
+logging.level.org.hibernate.SQL=DEBUG
