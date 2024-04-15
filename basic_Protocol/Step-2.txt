@@ -1,0 +1,10 @@
+CREATING STANDARD PACKAGING STRUCTURE
+goto---------> project----------> sub main of project---------->new----------->package-------->(AND CREATE ALL PACKAGE MENTIONED BELOW)
+
+Create the following packages under the main package:
+1.controller
+2.service
+3.repository
+4.entity
+
+NOTE: FUTHER WE CAN CREATE MORE ACCORDING TO OUR NEED.
