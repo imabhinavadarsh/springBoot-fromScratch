@@ -11,7 +11,7 @@ public class StudentController {
 	//Path variable 
 	//we need to use @PathVariable Annotation
 	
-	@GetMapping("/student/{firstName}/{lastName}")
+	@GetMapping("/student/{firstName}/{lastName}") //this is the URL template structure
 	public Student studentPathVariable(@PathVariable("firstName")String firstName, @PathVariable("lastName")String lastName) {
 	return new Student(firstName, lastName);	
 	}
