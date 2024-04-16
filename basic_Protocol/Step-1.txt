@@ -12,7 +12,7 @@ Eclipse STS
 ......................................................................................
 
 Step 2: Setting Up the Project
-example:
+example: (Choose according to yor project requirement)
 
 Project Name: student-management-system
 Type: Maven Packaging (JAR)
@@ -26,7 +26,7 @@ Note: Leave Spring Boot default version as it is.
 ......................................................................................
 
 Step 3: Dependency Selection
-example:
+example:(Choose according to yor project requirement)
 
 Choose the following dependencies:
 Spring Web
@@ -35,9 +35,3 @@ Thymeleaf
 MySQL
 Spring Boot DevTool Dependency (for auto-update)
 ......................................................................................
-
-Spring Web
-Spring Data JPA
-Thymeleaf
-MySQL
-Spring Boot DevTool Dependency (for auto-update)
