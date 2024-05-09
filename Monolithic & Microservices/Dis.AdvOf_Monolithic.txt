@@ -1,0 +1,1 @@
+The main drawbacks of a monolithic architecture are that it's harder to fix problems and make changes, and if something breaks, it can bring down the whole system.

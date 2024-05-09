@@ -1,0 +1,3 @@
+Imagine you have a big box of LEGOs, and you build an entire castle using just those LEGOs. Every part of the castle, from the towers to the walls to the drawbridge, is all built together as one solid structure. That's like a monolithic architecture. All the pieces are stuck together, and if you want to change something, you might have to take apart the whole castle.
+
+So, in a monolithic architecture, all the parts of a software application are tightly connected and work together as one big piece, just like the LEGO castle.

@@ -1,0 +1,19 @@
+
+Certainly, here are the key differences between monolithic and microservices architectures in brief points:
+
+Monolithic Architecture:
+
+Single, tightly integrated unit.
+All components are part of one codebase.
+Scaling involves replicating the entire application.
+Changes or updates can require modifying the entire application.
+Simple to develop and initially deploy.
+Microservices Architecture:
+
+Composed of loosely coupled services.
+Each service has its own codebase and functionality.
+Scalable by independently scaling services based on demand.
+Changes are isolated to individual services, promoting agility.
+More complex to develop and manage due to distributed nature.
+In essence, monolithic architecture offers simplicity but can be limiting in terms of scalability and flexibility, 
+while microservices architecture provides flexibility and scalability but introduces complexity in development and management.

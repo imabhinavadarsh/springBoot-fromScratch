@@ -1,0 +1,5 @@
+In simple terms, a monolithic architecture is like a big, solid block of software where everything 
+- the user interface, the logic behind how it works, and how it stores and retrieves data 
+- is all bundled together in one piece. It's all tightly connected, like parts of a puzzle, 
+and when you change one thing, you might end up affecting everything else. 
+It's like having a big, single Lego structure where all the pieces are stuck together.
