@@ -1,0 +1,4 @@
+URL updates neans code updates
+cloud deployment- Dynamic url wont work
+Load Balancing will have issues
+Multiple environments will have url identification issues
